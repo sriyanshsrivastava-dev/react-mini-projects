@@ -30,7 +30,7 @@ react-mini-projects/
 ├── project1/
 ├── project2/
 ├── project3/
-│
+│— .gitignore
 └── README.md
 
 ````
@@ -88,15 +88,6 @@ http://localhost:5173
 * Build reusable UI components
 * Experiment with ideas
 * Strengthen frontend skills
-
----
-
-## 🚀 Future Improvements
-
-* Add live demo links
-* Add screenshots for each project
-* Improve UI/UX
-* Add more complex projects
 
 ---
 
