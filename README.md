@@ -43,7 +43,7 @@ Each folder is an independent React project.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/react-mini-projects.git
+git clone https://github.com/sriyanshsrivastava-dev/react-mini-projects.git
 ````
 
 2. Navigate to any project:
