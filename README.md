@@ -30,7 +30,7 @@ react-mini-projects/
 ├── project1/
 ├── project2/
 ├── project3/
-│
+│— .gitignore
 └── README.md
 
 ````
@@ -43,7 +43,7 @@ Each folder is an independent React project.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/react-mini-projects.git
+git clone https://github.com/sriyanshsrivastava-dev/react-mini-projects.git
 ````
 
 2. Navigate to any project:
@@ -88,15 +88,6 @@ http://localhost:5173
 * Build reusable UI components
 * Experiment with ideas
 * Strengthen frontend skills
-
----
-
-## 🚀 Future Improvements
-
-* Add live demo links
-* Add screenshots for each project
-* Improve UI/UX
-* Add more complex projects
 
 ---
 
